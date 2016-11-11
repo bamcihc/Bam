@@ -1,0 +1,14 @@
+PODS:
+  - Bam (0.1.0)
+
+DEPENDENCIES:
+  - Bam (from `../`)
+
+EXTERNAL SOURCES:
+  Bam:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Bam: 56f89d122926e6da82d6e13fed8be42f3824c810
+
+COCOAPODS: 0.39.0
